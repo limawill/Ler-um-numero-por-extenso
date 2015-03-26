@@ -1,0 +1,3 @@
+Entrada: 123456789012345
+Formatado: R$ 1.234.567.890.123,45
+Extenso: Um Trilhao, Duzentos e Trinta e Quatro Bilhoes, Quinhentos e Sessenta e Sete milhoes, Oitocentos e Noventa Mil, Cento e Vinte e Tres reais e Quarenta e Cinco centavos
